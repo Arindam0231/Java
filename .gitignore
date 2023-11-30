@@ -1,7 +1,7 @@
 *.class
 *.iml
-Java_Idea
-Recursion
+Java_Idea/
+Recursion/
 out
 *.xml
 *.gitignore
